@@ -11,7 +11,7 @@ spanElement.textContent = copyright;
 function redirect(){
  var search = $("#search").val()
 
- if(search == "1"){
-location.href="www.google.com"
+ if(search == "2"){
+location.href="https://yasstechdev.blogspot.com/2023/06/best-of-adobe.html"
 }
 }
